@@ -1,0 +1,4 @@
+{
+    "httpMethod": "POST",
+    "body": "{\"temperature\":7,\"humidity\":5,\"timestamp\":\"5/2/2023 5:20\"}"
+}
